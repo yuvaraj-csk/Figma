@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-'''
+```
 CSS
 
 // Saveetha Enginnering College
@@ -140,6 +140,7 @@ color: #C418E0;
  font-family: Inter;
  font-weight: 400;
  word-wrap: break-word
+ ```
 
 ## OUTPUT:
 ![Alt text](<Screenshot (9).png>)
