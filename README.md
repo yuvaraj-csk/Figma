@@ -32,7 +32,118 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
+## CODE:
+'''
+CSS
+
+// Saveetha Enginnering College
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Affiliated to Anna University
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// NIRF Ranked <br/>Autonomous Institution
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// LOGIN
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+ // Saveetha Enginnering College
+color: #BEFF03;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Username
+color: #304439;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Password
+color: #304439;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// SUBMIT<br/>
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Saveetha Enginnering College
+color: #3E875B;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Departments<br/>
+color: #6425CA;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// AI-ML
+color: #C418E0;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// AI-DS
+color: #C418E0;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// CSE<br/>
+color: #C418E0;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// IT<br/>
+color: #C418E0;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// IOT
+color: #C418E0;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+
 ## OUTPUT:
+![Alt text](<Screenshot (9).png>)
+
 
 
 ## RESULT:
